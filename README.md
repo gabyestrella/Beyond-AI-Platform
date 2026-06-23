@@ -2,7 +2,7 @@
 # Beyond AI — Agentic SEO Operations Platform
 
 <p align="center">
-  <img src="assets/platform-ui.png" width="800" alt="Beyond AI Platform — SEO Pipeline UI" />
+  <img src="platform-ui.png" width="800" alt="Beyond AI Platform — SEO Pipeline UI" />
 </p>
 
 <p align="center">
